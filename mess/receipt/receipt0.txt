@@ -1,0 +1,10 @@
+receipt id:receipt0
+student id : 2013ucp1652
+booked at : 2015-11-10 13:53:53
+booked for : 2015-11-11
+
+breakfast : 3
+lunch : 1
+dinner : 2
+
+total amount : 210
